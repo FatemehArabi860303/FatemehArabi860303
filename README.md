@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Fatemeh Arabi 👋
 
-<!--
-**FatemehArabi860303/FatemehArabi860303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET Software Developer focused on building reliable backend and enterprise applications.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET 8
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- RabbitMQ
+- Event-Driven Architecture
+- Clean Architecture / ISFC
+- Docker
+- xUnit
+
+## Featured Project
+
+### ServiceDesk
+
+A support-management application built with ASP.NET Core Web API, EF Core, SQL Server, JWT authentication, RabbitMQ, Outbox Pattern, background workers, and automated testing.
+
+## What I'm interested in
+
+- Senior .NET Developer roles
+- Backend development
+- Technical Lead opportunities
+- Freelance .NET projects
+
+## Connect with me
+
+LinkedIn: linkedin.com/in/fatemearabi
